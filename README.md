@@ -9,6 +9,6 @@
 
 <br/>
 
-### GitHub Stats 📊
+### 📊 GitHub Stats 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raghvis&hide_border=true&show_icons=true&include_all_commits=true&theme=dark" alt="raghvi's github stats"/>
-![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=raghvis.raghvis)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=raghvis.raghvis)
