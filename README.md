@@ -1,4 +1,4 @@
-### <img align='left' src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="50">Hey Stalker, its Raghvi
+### Hey Stalker, its Raghvi <img align='left' src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="50">
 
 
 - 🌱 I’m currently learning JavaScript and React
